@@ -3,6 +3,7 @@ grd_list=[]
 for i in range (0,n0):
      num=int(input("insert grade: "))
      grd_list.append(num)
+sorted(grd_list)
 print(grd_list)
 if (n0%2)==0:#even number
      n=int(n0/2)
