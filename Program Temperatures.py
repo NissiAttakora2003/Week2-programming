@@ -16,4 +16,4 @@ print(" the lowest temperature ever registered was : ", str(min(templist)))
 avaragetemp = temptot/5
 print(" the average temperature during the day was :", str(avaragetemp))
 fahrenheit = (celsius*(9/4))+32
-print("the equivalent of", str(celsius), "°C", "is", str(fahrenheit), "°F ")
+print("the equivalent of", str(celsius), "°C", "is", str(fahrenheit), "°F")
